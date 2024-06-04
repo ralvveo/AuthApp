@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
     var login = ""
+
     var password = ""
     var account = Account("", "")
 
